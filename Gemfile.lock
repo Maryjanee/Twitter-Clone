@@ -80,9 +80,9 @@ GEM
       xpath (~> 3.2)
     childprocess (3.0.0)
     coderay (1.1.3)
-    coffee-rails (4.2.2)
+    coffee-rails (5.0.0)
       coffee-script (>= 2.2.0)
-      railties (>= 4.0.0)
+      railties (>= 5.2.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -266,10 +266,10 @@ DEPENDENCIES
   bulma-rails (~> 0.9.0)
   byebug
   capybara (>= 2.15)
-  coffee-rails (~> 4.2)
+  coffee-rails (~> 5.0)
   devise (~> 4.7, >= 4.7.2)
   gravatar_image_tag (~> 1.2)
-  guard (~> 2.14, >= 2.14.1)
+  guard (~> 2.16, >= 2.16.2)
   guard-livereload (~> 2.5, >= 2.5.2)
   jbuilder (~> 2.7)
   listen (~> 3.2, >= 3.2.1)
